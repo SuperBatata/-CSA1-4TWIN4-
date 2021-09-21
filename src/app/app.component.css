@@ -1,0 +1,10 @@
+#logo {
+  width: 60px;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
